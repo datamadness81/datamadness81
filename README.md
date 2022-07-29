@@ -18,6 +18,7 @@
 <p align="justify">Hands-on related with DevOps tools and configurations needed for more complex pipelines</p>
 
 - <a href="https://github.com/datamadness81/aws-jenkins-server" target="_blank">Jenkins server in a AWS EC2 instance</a>
+- <a href="https://github.com/datamadness81/cdk_python" target="_blank">Apache server deployed using AWS CDK</a>
 
 <h3 align="left"><u>Data Analysis</u></h3>
 <p align="justify">Projects related to data analysis using Python. Actually in pause.</p>
