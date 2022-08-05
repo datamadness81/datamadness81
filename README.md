@@ -13,6 +13,7 @@
 - <a href="https://github.com/DatamadnessDevOps/aws-solutions-architect-associate-labs-/tree/main/queue_microservice" target="_blank">Queue microservices with AWS SQS and AWS Step Functions.</a>
 - <a href="https://gitlab.com/aws-associate-architect-cert-hands-on/fanout-pattern" target="_blank">Fanout pattern with AWS SNS, AWS Step Functions and AWS Lambda.</a>
 - <a href="https://gitlab.com/aws-associate-architect-cert-hands-on/nosql-app-data-store" target="_blank">NoSQL app data store with AWS DynamoDB, AWS Lambda and AWS SDK (python).</a>
+- <a href="https://github.com/datamadness81/ecs_basic" target="_blank">Deploy a Container Web APP on Amazon ECS.</a>
 
 <h3 align="left"><u>DevOps Basics</u></h3>
 <p align="justify">Hands-on related with DevOps tools and configurations needed for more complex pipelines</p>
